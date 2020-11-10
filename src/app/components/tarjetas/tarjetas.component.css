@@ -1,0 +1,5 @@
+@media (max-width: 800px) {
+    .card-columns.custom-columns {
+        column-count: 1;
+    }
+}
