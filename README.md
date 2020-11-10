@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.
 
+# Important
+This App require a token from Spotify, each token works for one hour only. Replace the token on SpotifyService.
+
 ## Dependences
 Run `npm install` before run the proyect.
 Dependences:
@@ -11,7 +14,7 @@ Dependences:
     - jquery
     - popper.js
   - fortawesome
-
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
