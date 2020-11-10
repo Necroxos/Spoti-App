@@ -7,7 +7,8 @@ This App require a token from Spotify, each token works for one hour only. Repla
 
 ## Dependences
 Run `npm install` before run the proyect.
-Dependences:
+
+#### Dependences:
   - ngx-toastr
     - @angular/animations
   - bootstrap
