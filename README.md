@@ -4,6 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Dependences
 Run `npm install` before run the proyect.
+Dependences:
+  - ngx-toastr
+    - @angular/animations
+  - bootstrap
+    - jquery
+    - popper.js
+  - fortawesome
 
 ## Development server
 
